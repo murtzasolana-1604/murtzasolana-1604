@@ -1,6 +1,10 @@
 # 💫 About Me:
 # Hi, I'm Ali 👋<br><br>🎓 B.Tech Computer Science student  <br>💻 Passionate about coding and building real-world projects  <br>🚀 Currently learning software development and improving my skills  <br><br>## 🛠️ Skills<br>- C<br>- C++<br>- Java<br>- HTML<br>- CSS<br>## 📫 Contact Me<br>- Email: murtzasolana@gmail.com
+<!-- Snake Game Repo View -->
 
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/ali-murtza-1b06aa382) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ali Murtza) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:murtzasolana@gmail.com) 
